@@ -7,7 +7,7 @@
   ![bingoctfgogreenlandingpage](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711996606/1_kcceab.png)
   
 <h3 align="center">
-Task Management Website + Mobile App</h3>
+Task Management Website</h3>
   
 </div>
 
@@ -37,21 +37,6 @@ Task Management Website + Mobile App</h3>
 
 
 
-### 3. Mobile App and Responsive Design
-
-#### Mobile App
-
-![attendance](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711996674/5_dndm7s.png)
-
-- Github Repo of Android App
-```bash
-https://github.com/sahilgala1234/Task-management-dashboard.git
-```
-
-#### Responsive Design
-
-![attendance](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711996651/4_bmgkfh.png)
-  
 
 ## Getting Started 🚀
 
