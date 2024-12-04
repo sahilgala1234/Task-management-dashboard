@@ -5,11 +5,8 @@ https://task-management-dashboard-i0qa4oi2m-sahil-galas-projects.vercel.app/
 <br />
 
 <br />
-
-  <br />
-  <br />
 <h3 align="center">
-Task Management Website</h3>
+Task Management Website by Sahil Gala</h3>
   
 </div>
 
