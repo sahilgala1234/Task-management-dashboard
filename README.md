@@ -17,21 +17,21 @@ Task Management Website</h3>
  
 #### All Tasks
  
- ![attendance](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711996619/2_xv3ljv.png)
- 
+ ![alt text](image-2.png)
  - To change the status of a task to "Complete" and update its date to the date when it was completed.
  
 
 ### 2. Add Task
   ### Add a new Task
+  
 
-   ![attendance](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711996633/3_ock8xg.png)
+   ![alt text](image.png)
 
 - We can add or remove Tasks.
 
     ### Filter Tasks
 
-   ![attendance](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711998055/6_fiiti1.png)
+   ![alt text](image-1.png)
 
 -  Allows users to easily filter tasks by date, status, and priority, providing a streamlined and efficient task management experience.
 
